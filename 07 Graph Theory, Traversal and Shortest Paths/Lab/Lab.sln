@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connected Components", "Connected Components\Connected Components.csproj", "{6967E77C-8D4E-4210-9572-5A452B18B25F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topological Sorting", "Topological Sorting\Topological Sorting.csproj", "{831EDA9E-B400-4FA1-A654-CAB879D236D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6967E77C-8D4E-4210-9572-5A452B18B25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6967E77C-8D4E-4210-9572-5A452B18B25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6967E77C-8D4E-4210-9572-5A452B18B25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6967E77C-8D4E-4210-9572-5A452B18B25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831EDA9E-B400-4FA1-A654-CAB879D236D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831EDA9E-B400-4FA1-A654-CAB879D236D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831EDA9E-B400-4FA1-A654-CAB879D236D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831EDA9E-B400-4FA1-A654-CAB879D236D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB863E0-F845-4BAF-AE01-5525F2CED698}
+	EndGlobalSection
+EndGlobal
